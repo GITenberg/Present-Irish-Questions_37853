@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '39099'
     url: http://www.gutenberg.org/2009/agents/39099
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37853#Present-Irish-Questions
 gutenberg_issued: '2011-10-26'
 gutenberg_type: Text
 identifiers:
