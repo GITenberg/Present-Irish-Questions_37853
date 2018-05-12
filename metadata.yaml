@@ -1,0 +1,28 @@
+_repo: Present-Irish-Questions_37853
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Morris, William O'Connor
+    birthdate: 1824
+    deathdate: 1904
+    gutenberg_agent_id: '39099'
+    url: http://www.gutenberg.org/2009/agents/39099
+description: ''
+gutenberg_issued: '2011-10-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37853'
+  lccn: '03001357'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Land tenure -- Ireland'
+- !lcc 'DA'
+- !lcsh 'Ireland -- Politics and government -- 1901-1910'
+title: Present Irish Questions
+url: http://www.gutenberg.org/ebooks/37853
